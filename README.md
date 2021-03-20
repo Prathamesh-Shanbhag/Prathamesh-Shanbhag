@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on refining my Javascript Skills and App Development!
 - 🌱 I’m currently learning Javascript,React.js.
-- 👯 I’m looking to collaborate on GitHub Campus Experts,any kind of Hackathons,,MLH Hackathons,or Student Developer Clubs!
+- 👯 I’m looking to collaborate on GitHub,any kind of Hackathons,,MLH Hackathons,or Student Developer Clubs!
 - 🤔 I’m looking for help with REST APIs,and Back-End Development
 - 💬 Ask me about HTML,CSS & Javascript,Visual Studio, and Fitness too!
 - 📫 How to reach me: Instagram: prathamesh_117
