@@ -64,10 +64,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br/>
 <br/>
 
-📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag" />
-
 <!-- 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 <!-- ```text
@@ -93,3 +89,7 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 [![Prathamesh Shanbhag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Shanbhag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag" />
