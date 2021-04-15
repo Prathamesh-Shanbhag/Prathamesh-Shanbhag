@@ -23,7 +23,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
 
-<br />
+---
 
 Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a passionate self-taught Front-End Web Developer. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. Not only technology, I like working to find solutions to problems, be it real life problems or technical problems and solving them diligently. I am proficient in languages like HTML, CSS, Javascript, Flutter. Also on the flip side, I like to dabble in fields of unknown frameworks, new technologies and languages like Python, Computer Vision, Google Cloud Platform(GCP), Android App Development, Microsoft Azure, Machine Learning, Back-End Development..
 
@@ -31,9 +31,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Prathamesh_117](https://twitter.com/Prathamesh_117);
+- 💬 Ask me about anything, I am happy to help!
+- 📫 How to reach me: [@Prathamesh_117](https://twitter.com/Prathamesh_117)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
+---
 
 **Languages and Tools:**
 
@@ -55,8 +56,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]() -->
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br>
 
 <!-- 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
@@ -78,6 +81,8 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 [![Prathamesh Shanbhag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Shanbhag)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 📈 My GitHub Stats
 
