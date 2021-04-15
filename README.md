@@ -18,7 +18,7 @@
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_volatile.coding/">
-  <img align="left" alt="Prathamesh's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="Prathamesh's Instagram" width="30px" src="./instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
@@ -78,7 +78,8 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 🌸  Completed 0 tasks today
 ✅  Completed 632 tasks so far
 ⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END -->
+
+## <!-- TODO-IST:END -->
 
 [![Prathamesh Shanbhag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Shanbhag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
