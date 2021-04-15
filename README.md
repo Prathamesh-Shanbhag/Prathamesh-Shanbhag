@@ -18,7 +18,7 @@
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_volatile.coding/">
-  <img align="left" alt="Prathamesh's Instagram" width="30px" src="./instagram.svg" />
+  <img align="left" alt="Prathamesh's Instagram" width="25px" src="./instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
@@ -59,8 +59,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-
 <!-- 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 <!-- ```text
@@ -79,7 +77,9 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 ✅  Completed 632 tasks so far
 ⏳  Longest streak is 10 days -->
 
-## <!-- TODO-IST:END -->
+## <!-- ## TODO-IST:END -->
+
+---
 
 [![Prathamesh Shanbhag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Shanbhag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
