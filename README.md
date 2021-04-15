@@ -18,7 +18,7 @@
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_volatile.coding/">
-  <img align="left" alt="Prathamesh's Instagram" width="30px" height="30px"src="./instagram.svg" />
+  <img align="left" alt="Prathamesh's Instagram" width="28px" height="28px"src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
@@ -29,7 +29,7 @@ Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a pass
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="320" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500" height="320" />
   ---
 
 - 💬 Ask me about anything, I am happy to help!
@@ -61,6 +61,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br/>
+<br/>
+
+📈 My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag" />
+
 <!-- 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 <!-- ```text
@@ -86,7 +93,3 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 [![Prathamesh Shanbhag's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Shanbhag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag" />
