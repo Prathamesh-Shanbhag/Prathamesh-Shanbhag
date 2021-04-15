@@ -18,7 +18,7 @@
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_volatile.coding/">
-  <img align="left" alt="Prathamesh's Instagram" width="25px" src="./instagram.svg" />
+  <img align="left" alt="Prathamesh's Instagram" width="30px" height="30px"src="./instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
