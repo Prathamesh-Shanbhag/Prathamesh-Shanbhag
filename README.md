@@ -29,11 +29,13 @@ Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a pass
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500" height="320" />
-  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="320" height="320" />
+  ---
+
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [@Prathamesh_117](https://twitter.com/Prathamesh_117)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
+
 ---
 
 **Languages and Tools:**
