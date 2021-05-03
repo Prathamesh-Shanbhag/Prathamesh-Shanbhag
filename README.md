@@ -21,7 +21,7 @@
   <img align="left" alt="Prathamesh's Instagram" width="28px" height="28px"src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag)
+<-- ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag) -->
 
 ---
 
