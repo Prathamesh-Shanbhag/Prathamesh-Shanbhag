@@ -30,6 +30,7 @@ Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a pass
 I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500" height="320" />
+  
   ---
 
 - 💬 Ask me about anything, I am happy to help!
