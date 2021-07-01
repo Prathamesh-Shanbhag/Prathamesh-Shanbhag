@@ -25,9 +25,9 @@
 
 ---
 
-Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a passionate self-taught Front-End Web Developer. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. Not only technology, I like working to find solutions to problems, be it real life problems or technical problems and solving them diligently. I am proficient in languages like HTML, CSS, Javascript, Flutter. Also on the flip side, I like to dabble in fields of unknown frameworks, new technologies and languages like Python, Computer Vision, Google Cloud Platform(GCP), Android App Development, Microsoft Azure, Machine Learning, Back-End Development..
+Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a passionate self-taught Front-End Web Developer. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript, Flutter. Also on the flip side, I like to dabble in fields of unknown frameworks, new technologies and languages like Python, Computer Vision, Google Cloud Platform(GCP), Android App Development, Microsoft Azure, Machine Learning, Back-End Development..
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community!
+I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500" height="320" />
   ---
