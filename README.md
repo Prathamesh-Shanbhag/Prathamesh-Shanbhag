@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/prathamesh-shanbhag/">
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_volatile.coding/">
+<a href="https://www.instagram.com/volatile.coding/">
   <img align="left" alt="Prathamesh's Instagram" width="28px" height="28px"src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 
