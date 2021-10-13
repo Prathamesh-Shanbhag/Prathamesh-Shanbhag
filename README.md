@@ -18,7 +18,7 @@
   <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/volatile.coding/">
-  <img align="left" alt="Prathamesh's Instagram" width="28px" height="28px"src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+  <img align="left" alt="Prathamesh's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag) -->
@@ -34,7 +34,7 @@ Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.hashnode.dev/), a pass
   ---
 
 - 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: [@Prathamesh_117](https://twitter.com/Prathamesh_117)
+- 📫 You can reach out to me on: [@Prathamesh_117](https://twitter.com/Prathamesh_117)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
 ---
@@ -93,4 +93,4 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Shanbhag&show_icons=true&theme=gotham" alt="Prathaemsh-Shanbhag Stats" />
