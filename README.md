@@ -1,4 +1,4 @@
-### Hey there,  
+
 
 <!--
 **Prathamesh-Shanbhag/Prathamesh-Shanbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -11,21 +11,20 @@
 - 📫 How to reach me: Instagram: prathamesh_117
 - ⚡ Fun fact: I am a CS student, who developed interest in Web Development in my current and ongoing 3rd Year! -->
 
-<a href="https://twitter.com/Prathamesh_117">
-  <img align="left" alt="Prathamesh Shanbhag | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/Prathamesh_117"> 
+  <img align=""left alt="Twitter" title="LinkedIn" height="22" width="22" src="https://cdn.simpleicons.org/twitter"></a>
 </a>
 <a href="https://www.linkedin.com/in/prathamesh-shanbhag/">
-  <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://www.instagram.com/itsthe.mesh/">
-  <img align="left" alt="Prathamesh's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+  <img align="left" alt="Prathamesh's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Prathamesh-Shanbhag/Prathamesh-Shanbhag) -->
+### Hey there,  
 
----
-
-Hi, I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.com), a passionate self-taught Front-End Web Developer. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript, Flutter. Also on the flip side, I like to dabble in fields of unknown frameworks, new technologies and languages like Python, Computer Vision, Android App Development, Microsoft Azure Services, Machine Learning, Back-End Development..
+I'm [Prathamesh Shanbhag](https://prathamesh-shanbhag.com), a passionate self-taught Front-End Web Developer. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript, Flutter. Also on the flip side, I like to dabble in fields of unknown frameworks, new technologies and languages like Python, Computer Vision, Android App Development, Microsoft Azure Services, Machine Learning, Back-End Development..
 
 
 
